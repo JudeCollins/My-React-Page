@@ -45,11 +45,11 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              contact@jude.dev
+              Judethedev@gmail.com
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              MY ADdRESS
+              ATL, GA
             </div>
           </div>
         </div>

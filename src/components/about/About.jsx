@@ -17,18 +17,17 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-         kajsFHksjdfhalsdkjfhSLKFHASLDFHosfkhl
+         Full Stack Developer
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididDKujsfb cIUSHd9jd0pjopokslFUDLKFHaj SKDJQW a;sldjQe.
+        Hi im Jude Collins born in Orlando Fl, and raised in Atlanta georgia. I am a student brand new to coding. I am very excited to start my journey and become a full stack dev. This site will become my platform to display my work to possible employers.
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Rafting the Nantahala river</h4>
             <p className="a-award-desc">
-              NeldsFKB;.KJSDVBiusbdfosilkfj;OISJF
+             I love the outdoors, and enjoy to raft in my packraft during the summers in GA.
             </p>
           </div>
         </div>

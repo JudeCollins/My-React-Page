@@ -1,33 +1,33 @@
 export const products = [
     {
       id: 1,
-      img: "",
-      link: "http://lama.dev",
+      img: "img",
+      link: "https://github.com/JudeCollins",
     },
     {
       id: 2,
       img: "",
-      link: "https://drive.google.com/file/d/1FbteLDJ0P8E1euMoK50ho3XUPsGPrmBh/view?usp=sharing",
+      link: "https://github.com/JudeCollins",
     },
     {
       id: 3,
       img: "",
-      link: "https://drive.google.com/file/d/1FbteLDJ0P8E1euMoK50ho3XUPsGPrmBh/view?usp=sharing",
+      link: "https://github.com/JudeCollins",
     },
     {
       id: 4,
       img: "",
-      link: "https://drive.google.com/file/d/1FbteLDJ0P8E1euMoK50ho3XUPsGPrmBh/view?usp=sharing",
+      link: "https://github.com/JudeCollins",
     },
     {
       id: 5,
       img: "",
-      link: "https://drive.google.com/file/d/1FbteLDJ0P8E1euMoK50ho3XUPsGPrmBh/view?usp=sharing",
+      link: "https://github.com/JudeCollins",
     },
     {
       id: 6,
       img: "",
-      link: "https://drive.google.com/file/d/1FbteLDJ0P8E1euMoK50ho3XUPsGPrmBh/view?usp=sharing",
+      link: "https://github.com/JudeCollins",
     },
   ];
 
